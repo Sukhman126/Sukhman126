@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=ea4335&height=200&section=header&text=Ethical%20Hacker&fontSize=70&animation=twinkling&fontAlignY=35&desc=Protecting%20the%20Digital%20World&descAlignY=60&descSize=25" width="100%" />
+</p>
+
 # Hi 👋, I'm Sukhmanpreet Kaur
 ### "Securing the Digital Frontier | Aspiring Ethical Hacker" 🛡️
 
