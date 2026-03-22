@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=ea4335&height=200&section=header&text=Ethical%20Hacker&fontSize=70&animation=twinkling&fontAlignY=35&desc=Protecting%20the%20Digital%20World&descAlignY=60&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=ea4335&height=200&section=header&text=Sukhmanpreet%20Kaur&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Ethical%20Hacker%20|%209.62%20CGPA&descAlignY=60&descSize=25" width="100%" />
 </p>
 
 # Hi 👋, I'm Sukhmanpreet Kaur
