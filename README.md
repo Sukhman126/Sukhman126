@@ -42,7 +42,7 @@ To become a well-rounded Cybersecurity Professional with expertise across divers
 - 🤖 AI in Cybersecurity
 - 🌍 Network Security
 - 🐧 Linux Security
-- ☁️ Cloud Security (Learning)
+- ☁️ Cloud Security 
 
 ---
 
